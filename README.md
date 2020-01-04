@@ -23,6 +23,8 @@ Or install it yourself as:
 ## Usage
 
 Only use for testing new practices!!
+- I can successfully start a project and link it to a GH repo
+- I can successfully clone down and update a project to GH repo
 
 ## Development
 
